@@ -12,8 +12,8 @@ email: fatin.ruzanna@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+website: https://fatinruzanna.github.io/
+website_title: Web
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -124,7 +124,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: top
+      - layout: right
         title: F-Secure Corporation
         sub_title: Lead Software Architect
         caption: August 2018 - present
@@ -136,7 +136,7 @@ content:
           - Technical lead for an integration platform and management portal used by partners.
           - Oversaw feature implementation, unit tests, code reviews, documentation, and debugging.
           - Deployed and monitored web applications in AWS, ensuring high availability and performance.
-      - layout: top
+      - layout: right
         title: F-Secure Corporation
         sub_title: Lead Software Engineer
         caption: May 2016 - July 2018
@@ -149,7 +149,7 @@ content:
           - Deployed and monitored web applications in AWS, ensuring high availability and performance.
           - Guided junior developers and promoted best practices within Agile workflows.
           - Resolved critical project risks and dependencies.
-      - layout: top
+      - layout: right
         title: F-Secure Corporation
         sub_title: Senior Software Engineer
         caption: April 2013 - April 2016
@@ -159,7 +159,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Enhanced integration platforms, marketing portals, and provisioning systems using Python, JavaScript, and Java.
           - Implemented new tools and workflows to improve team efficiency and project outcomes.
-      - layout: top
+      - layout: right
         title: F-Secure Corporation
         sub_title: Software Engineer
         caption: February 2011 - March 2013
@@ -169,7 +169,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Developed consumer-facing applications, including a cloud storage portal and Windows desktop software using C++ and Qt.
           - Adopted and integrated new technologies to improve application performance and usability.
-      - layout: top
+      - layout: right
         title: Motorola Solutions
         sub_title: Senior Software Engineer
         caption: April 2010 - February 2011
@@ -179,7 +179,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Led feature development for Association of Public-Safety Communications Officials (APCO) two-way radio applications, utilizing waterfall and Agile methodologies.
           - Conducted technical training for new hires to ensure rapid team onboarding.
-      - layout: top
+      - layout: right
         title: Motorola Solutions
         sub_title: Software Engineer
         caption: June 2007 - March 2010
