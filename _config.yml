@@ -54,14 +54,71 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Accomplished Lead Software Architect with over 16 years of experience in software development, architecture, and team leadership. Expert in designing scalable web and backend systems, with a proven track record of delivering innovative solutions for consumer products. Adept at fostering collaboration, mentoring teams, and driving the adoption of modern tools and practices. Proficient in Python, JavaScript, and multiple frameworks, with strong knowledge of cloud deployment and monitoring.
 
-  | <!-- -->    | <!-- -->    |
-  |-------------|-------------|
-  | Core competencies | <mark>Software Architecture & Design</mark> <mark>Web & Backend Development</mark> <mark>Cloud Deployment (AWS)</mark> <mark>Agile Methodologies</mark><mark>Team Leadership & Mentorship</mark> <mark>Risk Assessment & Issue Resolution</mark> |
-  | Programming languages | <mark>Python</mark> <mark>MySQL</mark> <mark>C</mark> <mark>C++</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Java</mark> |
-  | Frameworks | <mark>Django</mark> <mark>Flask</mark> <mark>Vue.JS 2.x</mark> <mark>Angular.JS 1.x</mark> <mark>Liferay</mark> |
-  | Cloud platforms | <mark>AWS</mark> |
-  | Tools | <mark>Git</mark> <mark>Jenkins</mark> <mark>Splunk</mark> <mark>New Relic</mark> <mark>Dynatrace</mark> <mark>Atlassian Suite</mark> |
-  | Practices | <mark>Agile/Scrum</mark> <mark>Scaled Agile Framework (SAFe)</mark> <mark>CI/CD</mark> <mark>Domain-Driven Development</mark> <mark>Automated Testing</mark> |
+  <table style="font-size: 12pt;">
+    <tbody>
+      <tr>
+        <td style="width: 22%">Core competencies</td>
+        <td>
+          <mark>Software Architecture & Design</mark>
+          <mark>Web & Backend Development</mark>
+          <mark>Cloud Deployment (AWS)</mark>
+          <mark>Agile Methodologies</mark>
+          <mark>Team Leadership & Mentorship</mark>
+          <mark>Risk Assessment & Issue Resolution</mark>
+        </td>
+      </tr>
+      <tr>
+        <td>Programming languages</td>
+        <td>
+          <mark>Python</mark>
+          <mark>MySQL</mark>
+          <mark>C</mark>
+          <mark>C++</mark>
+          <mark>HTML</mark>
+          <mark>CSS</mark>
+          <mark>JavaScript</mark>
+          <mark>Java</mark>
+        </td>
+      </tr>
+      <tr>
+        <td>Frameworks</td>
+        <td>
+          <mark>Django</mark>
+          <mark>Flask</mark>
+          <mark>Vue.JS 2.x</mark>
+          <mark>Angular.JS 1.x</mark>
+          <mark>Liferay</mark>
+        </td>
+      </tr>
+      <tr>
+        <td>Cloud platforms</td>
+        <td>
+          <mark>AWS</mark>
+        </td>
+      </tr>
+      <tr>
+        <td>Tools</td>
+        <td>
+          <mark>Git</mark>
+          <mark>Jenkins</mark>
+          <mark>Splunk</mark>
+          <mark>New Relic</mark>
+          <mark>Dynatrace</mark>
+          <mark>Atlassian Suite</mark>
+        </td>
+      </tr>
+      <tr>
+        <td>Practices</td>
+        <td>
+          <mark>Agile/Scrum</mark>
+          <mark>Scaled Agile Framework (SAFe)</mark>
+          <mark>CI/CD</mark>
+          <mark>Domain-Driven Development</mark>
+          <mark>Automated Testing</mark>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 content:
   - title: Experience
