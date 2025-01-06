@@ -133,7 +133,7 @@ content:
           Offers cybersecurity solutions in the B2C segment.
         description: | # this will include new lines to allow paragraphs
           - Spearheaded architecture and design for web and backend services for consumer products.
-          - Technical lead for an integration platform and management portal used by partners.
+          - Technical lead for an integration platform and management portal that are used by partners.
           - Oversaw feature implementation, unit tests, code reviews, documentation, and debugging.
           - Deployed and monitored web applications in AWS, ensuring high availability and performance.
       - layout: right
@@ -167,7 +167,7 @@ content:
         quote: >
           Offers cybersecurity solutions in the B2C segment.
         description: | # this will include new lines to allow paragraphs
-          - Developed consumer-facing applications, including a cloud storage portal and Windows desktop software using C++ and Qt.
+          - Developed consumer-facing applications, including a cloud storage portal and Windows desktop software using Python, Javascript, C++ and Qt.
           - Adopted and integrated new technologies to improve application performance and usability.
       - layout: right
         title: Motorola Solutions
