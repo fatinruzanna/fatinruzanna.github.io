@@ -1,0 +1,207 @@
+# Site
+repository: fatinruzanna/fatinruzanna.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Fatin Ruzanna Serinara
+title: Lead Software Architect (Web & Backend)
+email: fatin.ruzanna@gmail.com
+# email_title: Email (Email title override)
+# phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+# website: Your website (eg. https://google.com)(optional)
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: jekyllrb
+github_username:  fatinruzanna
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: fatin-ruzanna
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
+
+# Additional icon links
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Accomplished Lead Software Architect with over 16 years of experience in software development, architecture, and team leadership. Expert in designing scalable web and backend systems, with a proven track record of delivering innovative solutions for consumer products. Adept at fostering collaboration, mentoring teams, and driving the adoption of modern tools and practices. Proficient in Python, JavaScript, and multiple frameworks, with strong knowledge of cloud deployment and monitoring.
+
+  Core competencies:
+    <mark>Software Architecture & Design</mark>
+    <mark>Web & Backend Development</mark>
+    <mark>Cloud Deployment (AWS)</mark>
+    <mark>Agile Methodologies</mark>
+    <mark>Team Leadership & Mentorship</mark>
+    <mark>Risk Assessment & Issue Resolution</mark>
+  Programming languages:
+    <mark>Python</mark>
+    <mark>MySQL</mark>
+    <mark>C</mark>
+    <mark>C++</mark>
+    <mark>HTML</mark>
+    <mark>CSS</mark>
+    <mark>JavaScript</mark>
+    <mark>Java</mark>
+  Frameworks:
+    <mark>Django</mark>
+    <mark>Flask</mark>
+    <mark>Vue.JS 2.x</mark>
+    <mark>Angular.JS 1.x</mark>
+    <mark>Liferay</mark>
+  Cloud platform:
+    <mark>AWS</mark>
+  Tools:
+    <mark>Git</mark>
+    <mark>Jenkins</mark>
+    <mark>Splunk</mark>
+    <mark>New Relic</mark>
+    <mark>Dynatrace</mark>
+    <mark>Atlassian Suite</mark>
+  Practices:
+    <mark>Agile/Scrum</mark>
+    <mark>Scaled Agile Framework (SAFe)</mark>
+    <mark>CI/CD</mark>
+    <mark>Domain-Driven Development</mark>
+    <mark>Automated Testing</mark>
+
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: F-Secure Corporation
+        sub_title: Lead Software Architect
+        caption: August 2018 - present
+        link: https://www.f-secure.com
+        quote: >
+          Offers cybersecurity solutions in the B2C segment.
+        description: | # this will include new lines to allow paragraphs
+          - Spearheaded architecture and design for web and backend services for consumer products.
+          - Technical lead for an integration platform and management portal used by partners.
+          - Oversaw feature implementation, unit tests, code reviews, documentation, and debugging.
+          - Deployed and monitored web applications in AWS, ensuring high availability and performance.
+      - layout: right
+        title: F-Secure Corporation
+        sub_title: Lead Software Engineer
+        caption: May 2016 - July 2018
+        link: https://www.f-secure.com
+        quote: >
+          Offers cybersecurity solutions in the B2C segment.
+        description: | # this will include new lines to allow paragraphs
+          - Maintained software applications, ensuring robust code quality through reviews and unit testing.
+          - Designed and developed web and backend systems for consumer product integration.
+          - Deployed and monitored web applications in AWS, ensuring high availability and performance.
+          - Guided junior developers and promoted best practices within Agile workflows.
+          - Resolved critical project risks and dependencies.
+      - layout: right
+        title: F-Secure Corporation
+        sub_title: Senior Software Engineer
+        caption: April 2013 - April 2016
+        link: https://www.f-secure.com
+        quote: >
+          Offers cybersecurity solutions in the B2C segment.
+        description: | # this will include new lines to allow paragraphs
+          - Enhanced integration platforms, marketing portals, and provisioning systems using Python, JavaScript, and Java.
+          - Implemented new tools and workflows to improve team efficiency and project outcomes.
+      - layout: right
+        title: F-Secure Corporation
+        sub_title: Software Engineer
+        caption: February 2011 - March 2013
+        link: https://www.f-secure.com
+        quote: >
+          Offers cybersecurity solutions in the B2C segment.
+        description: | # this will include new lines to allow paragraphs
+          - Developed consumer-facing applications, including a cloud storage portal and Windows desktop software using C++ and Qt.
+          - Adopted and integrated new technologies to improve application performance and usability.
+      - layout: right
+        title: Motorola Solutions
+        sub_title: Senior Software Engineer
+        caption: April 2010 - February 2011
+        link: https://www.motorolasolutions.com/
+        quote: >
+          Build and connect safety and security technologies to keep people safer everywhere.
+        description: | # this will include new lines to allow paragraphs
+          - Led feature development for Association of Public-Safety Communications Officials (APCO) two-way radio applications, utilizing waterfall and Agile methodologies.
+          - Conducted technical training for new hires to ensure rapid team onboarding.
+      - layout: right
+        title: Motorola Solutions
+        sub_title: Software Engineer
+        caption: April 2010 - February 2011
+        link: https://www.motorolasolutions.com/
+        quote: >
+          Build and connect safety and security technologies to keep people safer everywhere.
+        description: | # this will include new lines to allow paragraphs
+          - Delivered high-quality software for Association of Public-Safety Communications Officials (APCO) two-way radio systems, maintaining clear documentation and performing rigorous inspections of deliverables.
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Multimedia University, Malaysia
+        sub_title: Bachelor of Engineering (B.Eng.), Electronics majoring in Computer
+        caption: 2002 - 2007
+        quote: >
+          A comprehensive undergraduate training in the design and development of both hardware and software aspects of computers and digital systems.
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
