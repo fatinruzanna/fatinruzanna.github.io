@@ -20,13 +20,13 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  fatinruzanna
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
 linkedin_username: fatin-ruzanna
+github_username:  fatinruzanna
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -59,34 +59,34 @@ about_content: | # this will include new lines to allow paragraphs
       <tr>
         <td style="width: 22%">Core competencies</td>
         <td>
-          <mark>Software Architecture & Design</mark>
-          <mark>Web & Backend Development</mark>
-          <mark>Cloud Deployment (AWS)</mark>
-          <mark>Agile Methodologies</mark>
-          <mark>Team Leadership & Mentorship</mark>
+          <mark>Software Architecture & Design</mark>,
+          <mark>Web & Backend Development</mark>,
+          <mark>Cloud Deployment (AWS)</mark>,
+          <mark>Agile Methodologies</mark>,
+          <mark>Team Leadership & Mentorship</mark>,
           <mark>Risk Assessment & Issue Resolution</mark>
         </td>
       </tr>
       <tr>
         <td>Programming languages</td>
         <td>
-          <mark>Python</mark>
-          <mark>MySQL</mark>
-          <mark>C</mark>
-          <mark>C++</mark>
-          <mark>HTML</mark>
-          <mark>CSS</mark>
-          <mark>JavaScript</mark>
+          <mark>Python</mark>,
+          <mark>MySQL</mark>,
+          <mark>C</mark>,
+          <mark>C++</mark>,
+          <mark>HTML</mark>,
+          <mark>CSS</mark>,
+          <mark>JavaScript</mark>,
           <mark>Java</mark>
         </td>
       </tr>
       <tr>
         <td>Frameworks</td>
         <td>
-          <mark>Django</mark>
-          <mark>Flask</mark>
-          <mark>Vue.JS 2.x</mark>
-          <mark>Angular.JS 1.x</mark>
+          <mark>Django</mark>,
+          <mark>Flask</mark>,
+          <mark>Vue.JS 2.x</mark>,
+          <mark>Angular.JS 1.x</mark>,
           <mark>Liferay</mark>
         </td>
       </tr>
@@ -99,21 +99,21 @@ about_content: | # this will include new lines to allow paragraphs
       <tr>
         <td>Tools</td>
         <td>
-          <mark>Git</mark>
-          <mark>Jenkins</mark>
-          <mark>Splunk</mark>
-          <mark>New Relic</mark>
-          <mark>Dynatrace</mark>
+          <mark>Git</mark>,
+          <mark>Jenkins</mark>,
+          <mark>Splunk</mark>,
+          <mark>New Relic</mark>,
+          <mark>Dynatrace</mark>,
           <mark>Atlassian Suite</mark>
         </td>
       </tr>
       <tr>
         <td>Practices</td>
         <td>
-          <mark>Agile/Scrum</mark>
-          <mark>Scaled Agile Framework (SAFe)</mark>
-          <mark>CI/CD</mark>
-          <mark>Domain-Driven Development</mark>
+          <mark>Agile/Scrum</mark>,
+          <mark>Scaled Agile Framework (SAFe)</mark>,
+          <mark>CI/CD</mark>,
+          <mark>Domain-Driven Development</mark>,
           <mark>Automated Testing</mark>
         </td>
       </tr>
@@ -124,7 +124,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left
+      - layout: top
         title: F-Secure Corporation
         sub_title: Lead Software Architect
         caption: August 2018 - present
@@ -136,7 +136,7 @@ content:
           - Technical lead for an integration platform and management portal used by partners.
           - Oversaw feature implementation, unit tests, code reviews, documentation, and debugging.
           - Deployed and monitored web applications in AWS, ensuring high availability and performance.
-      - layout: left
+      - layout: top
         title: F-Secure Corporation
         sub_title: Lead Software Engineer
         caption: May 2016 - July 2018
@@ -149,7 +149,7 @@ content:
           - Deployed and monitored web applications in AWS, ensuring high availability and performance.
           - Guided junior developers and promoted best practices within Agile workflows.
           - Resolved critical project risks and dependencies.
-      - layout: left
+      - layout: top
         title: F-Secure Corporation
         sub_title: Senior Software Engineer
         caption: April 2013 - April 2016
@@ -159,7 +159,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Enhanced integration platforms, marketing portals, and provisioning systems using Python, JavaScript, and Java.
           - Implemented new tools and workflows to improve team efficiency and project outcomes.
-      - layout: left
+      - layout: top
         title: F-Secure Corporation
         sub_title: Software Engineer
         caption: February 2011 - March 2013
@@ -169,7 +169,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Developed consumer-facing applications, including a cloud storage portal and Windows desktop software using C++ and Qt.
           - Adopted and integrated new technologies to improve application performance and usability.
-      - layout: left
+      - layout: top
         title: Motorola Solutions
         sub_title: Senior Software Engineer
         caption: April 2010 - February 2011
@@ -179,7 +179,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Led feature development for Association of Public-Safety Communications Officials (APCO) two-way radio applications, utilizing waterfall and Agile methodologies.
           - Conducted technical training for new hires to ensure rapid team onboarding.
-      - layout: left
+      - layout: top
         title: Motorola Solutions
         sub_title: Software Engineer
         caption: June 2007 - March 2010
