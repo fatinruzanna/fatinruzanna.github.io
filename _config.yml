@@ -54,49 +54,63 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Accomplished Lead Software Architect with over 16 years of experience in software development, architecture, and team leadership. Expert in designing scalable web and backend systems, with a proven track record of delivering innovative solutions for consumer products. Adept at fostering collaboration, mentoring teams, and driving the adoption of modern tools and practices. Proficient in Python, JavaScript, and multiple frameworks, with strong knowledge of cloud deployment and monitoring.
 
-  Core competencies:
-    <mark>Software Architecture & Design</mark>
-    <mark>Web & Backend Development</mark>
-    <mark>Cloud Deployment (AWS)</mark>
-    <mark>Agile Methodologies</mark>
-    <mark>Team Leadership & Mentorship</mark>
-    <mark>Risk Assessment & Issue Resolution</mark>
-  Programming languages:
-    <mark>Python</mark>
-    <mark>MySQL</mark>
-    <mark>C</mark>
-    <mark>C++</mark>
-    <mark>HTML</mark>
-    <mark>CSS</mark>
-    <mark>JavaScript</mark>
-    <mark>Java</mark>
-  Frameworks:
-    <mark>Django</mark>
-    <mark>Flask</mark>
-    <mark>Vue.JS 2.x</mark>
-    <mark>Angular.JS 1.x</mark>
-    <mark>Liferay</mark>
-  Cloud platform:
-    <mark>AWS</mark>
-  Tools:
-    <mark>Git</mark>
-    <mark>Jenkins</mark>
-    <mark>Splunk</mark>
-    <mark>New Relic</mark>
-    <mark>Dynatrace</mark>
-    <mark>Atlassian Suite</mark>
-  Practices:
-    <mark>Agile/Scrum</mark>
-    <mark>Scaled Agile Framework (SAFe)</mark>
-    <mark>CI/CD</mark>
-    <mark>Domain-Driven Development</mark>
-    <mark>Automated Testing</mark>
-
 content:
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        sub_title: Core competencies
+        description: | # this will include new lines to allow paragraphs
+          <mark>Software Architecture & Design</mark>
+          <mark>Web & Backend Development</mark>
+          <mark>Cloud Deployment (AWS)</mark>
+          <mark>Agile Methodologies</mark>
+          <mark>Team Leadership & Mentorship</mark>
+          <mark>Risk Assessment & Issue Resolution</mark>
+      - layout: left
+        sub_title: Programming languages
+        description: | # this will include new lines to allow paragraphs
+          <mark>Python</mark>
+          <mark>MySQL</mark>
+          <mark>C</mark>
+          <mark>C++</mark>
+          <mark>HTML</mark>
+          <mark>CSS</mark>
+          <mark>JavaScript</mark>
+          <mark>Java</mark>
+      - layout: left
+        sub_title: Frameworks
+        description: | # this will include new lines to allow paragraphs
+          <mark>Django</mark>
+          <mark>Flask</mark>
+          <mark>Vue.JS 2.x</mark>
+          <mark>Angular.JS 1.x</mark>
+          <mark>Liferay</mark>
+      - layout: left
+        sub_title: Cloud platforms
+        description: | # this will include new lines to allow paragraphs
+          <mark>AWS</mark>
+      - layout: left
+        sub_title: Tools
+        description: | # this will include new lines to allow paragraphs
+          <mark>Git</mark>
+          <mark>Jenkins</mark>
+          <mark>Splunk</mark>
+          <mark>New Relic</mark>
+          <mark>Dynatrace</mark>
+          <mark>Atlassian Suite</mark>
+      - layout: left
+        sub_title: Practices
+        description: | # this will include new lines to allow paragraphs
+          <mark>Agile/Scrum</mark>
+          <mark>Scaled Agile Framework (SAFe)</mark>
+          <mark>CI/CD</mark>
+          <mark>Domain-Driven Development</mark>
+          <mark>Automated Testing</mark>
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: F-Secure Corporation
         sub_title: Lead Software Architect
         caption: August 2018 - present
@@ -108,7 +122,7 @@ content:
           - Technical lead for an integration platform and management portal used by partners.
           - Oversaw feature implementation, unit tests, code reviews, documentation, and debugging.
           - Deployed and monitored web applications in AWS, ensuring high availability and performance.
-      - layout: right
+      - layout: left
         title: F-Secure Corporation
         sub_title: Lead Software Engineer
         caption: May 2016 - July 2018
@@ -121,7 +135,7 @@ content:
           - Deployed and monitored web applications in AWS, ensuring high availability and performance.
           - Guided junior developers and promoted best practices within Agile workflows.
           - Resolved critical project risks and dependencies.
-      - layout: right
+      - layout: left
         title: F-Secure Corporation
         sub_title: Senior Software Engineer
         caption: April 2013 - April 2016
@@ -131,7 +145,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Enhanced integration platforms, marketing portals, and provisioning systems using Python, JavaScript, and Java.
           - Implemented new tools and workflows to improve team efficiency and project outcomes.
-      - layout: right
+      - layout: left
         title: F-Secure Corporation
         sub_title: Software Engineer
         caption: February 2011 - March 2013
@@ -141,7 +155,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Developed consumer-facing applications, including a cloud storage portal and Windows desktop software using C++ and Qt.
           - Adopted and integrated new technologies to improve application performance and usability.
-      - layout: right
+      - layout: left
         title: Motorola Solutions
         sub_title: Senior Software Engineer
         caption: April 2010 - February 2011
@@ -151,7 +165,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Led feature development for Association of Public-Safety Communications Officials (APCO) two-way radio applications, utilizing waterfall and Agile methodologies.
           - Conducted technical training for new hires to ensure rapid team onboarding.
-      - layout: right
+      - layout: left
         title: Motorola Solutions
         sub_title: Software Engineer
         caption: April 2010 - February 2011
@@ -163,7 +177,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-middle
         title: Multimedia University, Malaysia
         sub_title: Bachelor of Engineering (B.Eng.), Electronics majoring in Computer
         caption: 2002 - 2007
@@ -171,12 +185,12 @@ content:
           A comprehensive undergraduate training in the design and development of both hardware and software aspects of computers and digital systems.
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: false
