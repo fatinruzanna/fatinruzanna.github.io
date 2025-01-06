@@ -58,6 +58,8 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
+      |   |   |
+      |---|---|
       | Core competencies | <mark>Software Architecture & Design</mark>
         <mark>Web & Backend Development</mark>
         <mark>Cloud Deployment (AWS)</mark>
