@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Skills
-    layout: list
+    layout: text
     content:
       - layout: left
         sub_title: Core competencies
@@ -168,7 +168,7 @@ content:
       - layout: left
         title: Motorola Solutions
         sub_title: Software Engineer
-        caption: April 2010 - February 2011
+        caption: June 2007 - March 2010
         link: https://www.motorolasolutions.com/
         quote: >
           Build and connect safety and security technologies to keep people safer everywhere.
